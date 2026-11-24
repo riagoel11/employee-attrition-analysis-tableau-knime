@@ -1,0 +1,4 @@
+# Data is not redistributed - see data/README.md
+data/*
+!data/README.md
+.DS_Store
